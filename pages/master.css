@@ -23,7 +23,13 @@ p{
 }
 
 ul{
+  font-family: 'Kreon', serif;
   color: #97CC04;
+}
+
+ol{
+  font-family: 'Kreon', serif;
+  color:#97CC04;
 }
 
 body{
