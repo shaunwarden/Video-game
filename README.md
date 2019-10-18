@@ -6,6 +6,7 @@ Website for Videogames
 <ul>
 <li> Framework from Bootstrap</li>
 <li> Navbar</li>
+<li>Sub Nav Bar</li>
 <li> Image card holders</li>
 <li>Hamburger Menu</li>
 <li>CSS styling</li>
