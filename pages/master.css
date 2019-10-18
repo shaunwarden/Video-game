@@ -1,0 +1,18 @@
+/* Added external fonts*/
+
+@import url('https://fonts.googleapis.com/css?family=Kreon:400,700|Ubuntu:400,700&display=swap');
+
+h1{
+  font-family: 'Ubuntu', sans-serif;
+font-weight: 700;
+color:#847979;
+}
+
+h3{font-family: 'Ubuntu', sans-serif;
+
+}
+
+p{
+  font-family: 'Kreon', serif;
+}
+font-family: 'Kreon', serif;
