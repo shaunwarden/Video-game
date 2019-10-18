@@ -5,14 +5,30 @@
 h1{
   font-family: 'Ubuntu', sans-serif;
 font-weight: 700;
-color:#847979;
+color:#97CC04;
 }
 
-h3{font-family: 'Ubuntu', sans-serif;
+h2{font-family: 'Ubuntu', sans-serif;
+color:#97CC04;
+}
 
+h3{
+  font-family: 'Ubuntu', sans-serif;
+  color:#97CC04
 }
 
 p{
   font-family: 'Kreon', serif;
+  color: #97CC04;
 }
-font-family: 'Kreon', serif;
+
+ul{
+  color: #97CC04;
+}
+
+body{
+background-color: #474647;}
+
+nav{
+  color:#474647;
+}
